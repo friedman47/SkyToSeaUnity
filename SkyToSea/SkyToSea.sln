@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyToSea.Plugins", "SkyToSea.Plugins.csproj", "{E24A404E-FD02-8E38-6956-5F6F35F3CEA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyToSea", "SkyToSea.csproj", "{0C9D3CB2-01E8-D6DF-02C8-6FBFFBC60177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyToSea.Editor.Plugins", "SkyToSea.Editor.Plugins.csproj", "{A3219436-F6A2-E940-F8E3-516764BECD46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E24A404E-FD02-8E38-6956-5F6F35F3CEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24A404E-FD02-8E38-6956-5F6F35F3CEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24A404E-FD02-8E38-6956-5F6F35F3CEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24A404E-FD02-8E38-6956-5F6F35F3CEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9D3CB2-01E8-D6DF-02C8-6FBFFBC60177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9D3CB2-01E8-D6DF-02C8-6FBFFBC60177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9D3CB2-01E8-D6DF-02C8-6FBFFBC60177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9D3CB2-01E8-D6DF-02C8-6FBFFBC60177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3219436-F6A2-E940-F8E3-516764BECD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3219436-F6A2-E940-F8E3-516764BECD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3219436-F6A2-E940-F8E3-516764BECD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3219436-F6A2-E940-F8E3-516764BECD46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
